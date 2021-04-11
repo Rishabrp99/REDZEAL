@@ -7,4 +7,4 @@ To Enjoy the game  please run platformer.exe
 #
 [swapnil718](https://github.com/Swapnil718)
 #
-[akkithegrt8]
+[akki-thegrt8](https://github.com/akki-thegr8)
